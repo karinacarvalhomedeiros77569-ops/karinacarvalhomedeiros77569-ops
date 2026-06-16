@@ -1,7 +1,8 @@
-# Olá mundo, eu sou a Karina Carvalho Medeiros! 👋
+# Olá, eu sou a Karina! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Karina29Silv-ops&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karinacarvalhomedeiros77569-ops&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinacarvalhomedeiros77569-ops&layout=compact&langs_count=7&theme=radial" alt="Linguagens mais usadas" height="180em" />
 </div>
 
 ---
