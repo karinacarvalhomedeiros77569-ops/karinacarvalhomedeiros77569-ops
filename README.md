@@ -1,16 +1,31 @@
-# Olá, eu sou a Karina! 👋 
+# Oi oi, eu sou a Karina 🙃
 
-🚀 **Sobre Mim**
-Sou estudante e entusiasta de tecnologia com um perfil altamente versátil e dinâmico. Unindo a organização e foco do setor de Assistência Administrativa, a precisão técnica da Mecânica Industrial e a lógica analítica do Desenvolvimento de Sistemas, busco criar soluções focadas em automação, eficiência de processos e inovação.
+# 👩‍💻 **Sobre Mim**
 
-Aqui é a minha central de estudos! Um espaço que utilizo para criar minhas anotações, registrar minha evolução e mostrar ao mundo o que estou construindo.
+Sou uma entusiasta da tecnologia. Meu foco principal no momento é desenvolver ao máximo minhas habilidades e melhorar meus conhecimentos na área da programação, pois quero construir minha carreira nesse setor.
 
 ---
 
+## Aqui estão os conteúdos que eu estou estudando no momento, de uma maneira resumida.
+
+--> 💻 Para programação:
+
+* ISO 9001:2015;
+  
+* Cloud computing;
+  
+* Python;
+  
+* Golang;
+  
+* JavaScript;
+  
+* C# (C-Sharp).
+
 ### 🎯 Objetivos & Foco de Carreira
-* **📍 Objetivo de Carreira:** Foco total em elevar minhas competências técnicas e construir um portfólio sólido visando oportunidades no mercado de tecnologia em Belo Horizonte (BH) nos próximos anos.
-* **📚 Estudos Atuais:** Lógica de Programação, Fundamentos de Sistemas e Metodologias Ágeis de Gestão.
-* **🎯 Próximos Passos:** Dominar a linguagem Python, aprofundar em Cloud Computing (Computação em Nuvem) e análise estratégica de dados.
+* 📋 **Objetivos de carreira:** Quero conseguir prosperar na área da programação, mas para isso eu ainda tenho muito a aprender. Estou dedicando meu tempo também para programação em nuvem e programação de sistemas.
+* 📚 **Diplomas e cursos em andamento:** Atualmente, eu tenho o diploma de Assistente Administrativo, ofertado pelo SENAC. Os demais cursos — Programador de Sistemas, ISO e Cloud —, também ofertados pelo SENAC, estão em andamento. Além deles, faço cursos em plataformas online, como Power BI e Microsoft Office.
+* 📈 **Próximos passos:** Terminar os cursos que estão em andamento, ingressar no ensino superior e me firmar na carreira de programadora. 
 
 ---
 
@@ -77,14 +92,15 @@ Se quiser navegar pelas matérias e anotações específicas que estou estrutura
 ---
 
 ### 📈 Metas de Aprendizado
-* [ ] Desenvolver scripts e projetos reais de automação de processos utilizando Python.
+* [ ] Conseguir o diploma dos cursos ofertados pelo SENAC.
+* [ ] Desenvolver scripts e projetos reais de automação de processos utilizando Python e outras linguagens.
 * [ ] Criar painéis e dashboards de dados interligando indicadores industriais e administrativos.
-* [ ] Conquistar certificações nas áreas de Cloud e Fundamentos de Sistemas pelo SENAC.
+* [ ] Desenvolver um bom networking na área de programação.
 
 ---
 
 ### 📫 Vamos nos conectar?
-Se quiser trocar uma ideia sobre tecnologia, projetos de automação ou oportunidades em Belo Horizonte, fique à vontade para me mandar uma mensagem!
+Se quiser trocar uma ideia sobre tecnologia, projetos de automação ou oportunidades, fique à vontade para me mandar uma mensagem!
 
 * 💻 **GitHub:** [karinacarvalhomedeiros77569-ops](https://github.com/karinacarvalhomedeiros77569-ops)
 * 💼 **LinkedIn:** [Karina Carvalho Medeiros](https://www.linkedin.com/in/karina-carvalho-medeiros-549a82379)
